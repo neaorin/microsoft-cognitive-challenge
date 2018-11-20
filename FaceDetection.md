@@ -43,9 +43,9 @@ Your application should allow the user to upload an image, then present back to 
 
 image credit: [gettyimages.com](https://media.gettyimages.com/photos/group-of-people-playing-craps-at-casino-picture-id78494343)
 
-> NOTE: You are required to create *at least one* recognizable Person (employee).
+> NOTE: You are required to create *at least one* recognizable Person (employee). 
 
-> NOTE: There is no image dataset for this challenge. You could either take pictures of yourself and your team members to use on the Face API, or search online for publicly available images.
+> NOTE: There is no image dataset for this challenge, with the exception of [one photo of Mike](media/mike1.png) listed above. You could either take pictures of yourself and your team members to use on the Face API, or search online for publicly available images.
 
 ## Hints
 
